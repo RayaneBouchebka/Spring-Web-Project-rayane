@@ -23,6 +23,6 @@ This is a basic Spring Boot web app that:
 
 ## Screenshot of Result
 
-![App Screenshot](Screenshots/Screenshot 1.png)
-![App Screenshot](Screenshots/Screenshot 2.png)
+![App Screenshot](Screenshots/SCREENSHOTFIRST.png)
+![App Screenshot](Screenshots/ScreenshotSECOND.png)
 

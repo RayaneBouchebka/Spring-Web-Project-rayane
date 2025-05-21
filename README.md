@@ -9,7 +9,8 @@ This is a basic Spring Boot web app that:
 
 1. Run the application
 2. Open your browser at:  
-   `http://localhost:8080/greeting?name=Winnie
+   `http://localhost:8080/greeting?name=Rayane
+   
 
 ## Technologies Used
 
